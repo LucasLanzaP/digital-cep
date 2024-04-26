@@ -1,0 +1,20 @@
+{
+    "name": "usuario/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LucasLanzaP",
+            "email": "lanzadp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
